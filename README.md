@@ -1,4 +1,4 @@
-# [Minesweeper](https://github.com/JamesTsetsekas/Minesweeper)
+# [Minesweeper](https://minesweeper-jamestsetsekas.vercel.app/)
 
 Windows XP Minesweepr in React + Hooks.
 Also support mobile.📱🎉
@@ -12,7 +12,7 @@ Features:
 
 ## Try it now!
 
-Minesweeper 👉 https://github.com/JamesTsetsekas/Minesweeper
+Minesweeper 👉 https://minesweeper-jamestsetsekas.vercel.app/
 
 ![](https://i.imgur.com/EoSzjCx.png)
 ![](https://i.imgur.com/ryy5BiC.png)
