@@ -1,8 +1,8 @@
 {
   "name": "minesweeper",
-  "homepage": "https://mines.now.sh",
+  "homepage": "",
   "version": "0.1.0",
-  "author": "sh1zuku <shizukuichi@gmail.com>",
+  "author": "James Tsetsekas",
   "dependencies": {
     "lodash.samplesize": "^4.2.0",
     "react": "^16.8.3",
