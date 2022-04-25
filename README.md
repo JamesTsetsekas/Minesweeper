@@ -1,6 +1,6 @@
 # [Minesweeper](https://minesweeper-jamestsetsekas.vercel.app/)
 
-Windows XP Minesweepr in React + Hooks.
+Windows XP Minesweeper in React + Hooks.
 Also support mobile.📱🎉
 
 Features:
